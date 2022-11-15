@@ -7,10 +7,5 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="Dizi-Ort" />
-    <orderEntry type="module" module-name="Dizi-Yakin" />
-    <orderEntry type="module" module-name="Yildiz-B" />
-    <orderEntry type="module" module-name="Tekrar" />
-    <orderEntry type="module" module-name="Palindrom" />
   </component>
 </module>

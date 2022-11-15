@@ -3,6 +3,6 @@ public class Main {
     //Ort.Harmonik();
         //Dizi_Yakin.En_Yakin(16);
         //Yildiz.B();
-        Tekrar.Cift();
+        //Tekrar.Cift();
     }
 }

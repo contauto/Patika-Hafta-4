@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Boks/Boks.iml" filepath="$PROJECT_DIR$/Boks/Boks.iml" />
       <module fileurl="file://$PROJECT_DIR$/Dizi-Ort/Dizi-Ort.iml" filepath="$PROJECT_DIR$/Dizi-Ort/Dizi-Ort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dizi-Yakin/Dizi-Yakin.iml" filepath="$PROJECT_DIR$/Dizi-Yakin/Dizi-Yakin.iml" />
       <module fileurl="file://$PROJECT_DIR$/OBS/OBS.iml" filepath="$PROJECT_DIR$/OBS/OBS.iml" />
       <module fileurl="file://$PROJECT_DIR$/Patika-Hafta-4.iml" filepath="$PROJECT_DIR$/Patika-Hafta-4.iml" />
     </modules>

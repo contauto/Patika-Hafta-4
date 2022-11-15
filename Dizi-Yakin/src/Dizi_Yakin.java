@@ -14,7 +14,7 @@ public class Dizi_Yakin {
                 min=i;
             }
             else if((i<maks)&&(i>sayi)){
-                max=i;
+                maks=i;
             }
         }
 

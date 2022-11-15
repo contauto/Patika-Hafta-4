@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Boks/Boks.iml" filepath="$PROJECT_DIR$/Boks/Boks.iml" />
       <module fileurl="file://$PROJECT_DIR$/OBS/OBS.iml" filepath="$PROJECT_DIR$/OBS/OBS.iml" />
       <module fileurl="file://$PROJECT_DIR$/Patika-Hafta-4.iml" filepath="$PROJECT_DIR$/Patika-Hafta-4.iml" />
     </modules>

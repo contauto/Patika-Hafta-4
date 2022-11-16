@@ -12,5 +12,9 @@
     <orderEntry type="module" module-name="Yildiz-B" />
     <orderEntry type="module" module-name="Tekrar" />
     <orderEntry type="module" module-name="Palindrom" />
+    <orderEntry type="module" module-name="Mayin-Tarlasi" />
+    <orderEntry type="module" module-name="Sirala" />
+    <orderEntry type="module" module-name="Frekans" />
+    <orderEntry type="module" module-name="Matrix" />
   </component>
 </module>

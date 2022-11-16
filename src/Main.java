@@ -7,9 +7,9 @@ public class Main {
         //Yildiz.B();
         //Tekrar.Cift();
         //Kelime.Palindrom("ebebe");
-        //MineSweeper.Game();
+        MineSweeper.Game();
         //ArraySorter.Sorter();
         //Frequency.Calculate();
-        Matrix.Transpose();
+        //Matrix.Transpose();
     }
 }

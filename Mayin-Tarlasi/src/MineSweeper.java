@@ -98,4 +98,3 @@ public class MineSweeper {
 
 
 }
-//System.out.println(Arrays.deepToString(mayinlar));
